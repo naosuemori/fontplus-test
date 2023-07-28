@@ -13,9 +13,9 @@
    * 
    * デフォルトではデバイスフォントを指定しています
    */
-  --font-family-heading: "FOT-筑紫アンティークLゴ Std B","OptimaNovaLTPro-Demi",FOT-筑紫A丸ゴシック Std R;
-  --font-family-price: "OptimaNovaLTPro-Demi",FOT-筑紫A丸ゴシック Std R;
-  --font-family-body: "FOT-筑紫A丸ゴシック Std R;
+  --font-family-heading: "FOT-筑紫アンティークLゴ Std B","OptimaNovaLTPro-Demi",FOT-筑紫A丸ゴシック Std R";
+  --font-family-price: "OptimaNovaLTPro-Demi","FOT-筑紫A丸ゴシック Std R";
+  --font-family-body: "FOT-筑紫A丸ゴシック Std R";
 
   /* Color scale */
   --black-800: #222222;
